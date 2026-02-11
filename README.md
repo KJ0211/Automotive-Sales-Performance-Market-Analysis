@@ -1,5 +1,5 @@
 # Automotive-Sales-Performance-Market-Analysis
-A comprehensive analysis of an automotive group's sales performance, focusing on regional trends, model popularity, and revenue growth. This project bridges the gap between raw sales data and executive decision-making.
+A comprehensive analysis of an automotive group's sales performance by IBM Cognos Analysis, focusing on regional trends, model popularity, and revenue growth. This project bridges the gap between raw sales data and executive decision-making.
 # Tools & Skills Demonstrated:
 
 Data Visualization: Created professional slide decks to translate complex data into actionable insights.
